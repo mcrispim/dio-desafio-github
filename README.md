@@ -8,3 +8,5 @@
 
  Vou tentar usar as Issues para fazer um 'planejamento' do que disponibilizar 
  neste repositório.
+
+### Esta linha é uma alteração realizada na minha área de trabalho e posteriormente enviada para o Github
