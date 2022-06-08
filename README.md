@@ -1,7 +1,7 @@
 # dio-desafio-github
-Desafio da DIO para criação e utilização de um repositório.
+##Desafio da DIO para criação e utilização de um repositório.
 
- Este é um desafio proposto durante o bootcamp NTT DATA Android Developer
+ Este é um desafio proposto durante o bootcamp Santander Bootcamp Mobile Developer
  que tem como objetivo demonstrar que o participante assimilou conceitos
  relativos a sistemas de controle de gestão, especificamente aqueles que 
  se referem ao git e à plataforma GitHub.
